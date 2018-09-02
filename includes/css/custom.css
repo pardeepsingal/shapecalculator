@@ -1,0 +1,32 @@
+/* Container holding the image and the text */
+.container-header {
+    position: relative;
+    text-align: center;
+    color: #000000;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 24px;
+    left: 13px;
+}
+.bottom-left a{
+    font-size: 20px;
+    color: #000;
+}
+.mt-50 {
+    margin-top: 50px !important;
+}
+
+.well
+{
+    background-color:#fff !important;
+    border:2px solid #e3e3e3 !important;
+}
+.fnt-result
+{
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+}
